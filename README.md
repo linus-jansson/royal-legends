@@ -1,2 +1,9 @@
 # royal-legends
-Discord Bot for the Royal Legends Discord server
+
+# Commands
+## General
+* /clan
+* /player #id
+* /season
+## Admin
+* /purge {amount}
